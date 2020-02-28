@@ -6,6 +6,8 @@
    <description>Recent content on Alexandra Magaña Noronha</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
+   <managingEditor>magananoronha@gmail.com (Alexandra Noronha)</managingEditor>
+   <webMaster>magananoronha@gmail.com (Alexandra Noronha)</webMaster>
    <lastBuildDate>Fri, 28 Feb 2020 12:01:56 -0600</lastBuildDate>
    
        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
        <title>Test</title>
        <link>http://example.org/posts/test/</link>
        <pubDate>Fri, 28 Feb 2020 12:01:56 -0600</pubDate>
-       
+       <author>magananoronha@gmail.com (Alexandra Noronha)</author>
        <guid>http://example.org/posts/test/</guid>
        <description>&lt;p&gt;still a wip&lt;/p&gt;
 </description>
