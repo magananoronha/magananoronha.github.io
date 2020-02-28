@@ -6,17 +6,17 @@
    <description>Recent content in Posts on Alexandra Magaña Noronha</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
-   <lastBuildDate>Mon, 20 Jan 2020 15:24:34 -0600</lastBuildDate>
+   <lastBuildDate>Thu, 27 Feb 2020 14:47:24 -0600</lastBuildDate>
    
        <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
    
    
      <item>
-       <title>My First Post</title>
-       <link>http://example.org/posts/my-first-post/</link>
-       <pubDate>Mon, 20 Jan 2020 15:24:34 -0600</pubDate>
+       <title>Code as Prose</title>
+       <link>http://example.org/posts/code-as-prose/</link>
+       <pubDate>Thu, 27 Feb 2020 14:47:24 -0600</pubDate>
        
-       <guid>http://example.org/posts/my-first-post/</guid>
+       <guid>http://example.org/posts/code-as-prose/</guid>
        <description></description>
      </item>
    
