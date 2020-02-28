@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
    <title>Tags on Alexandra Magaña Noronha</title>
-   <link>http://example.org/tags/</link>
+   <link>/tags/</link>
    <description>Recent content in Tags on Alexandra Magaña Noronha</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
    <managingEditor>magananoronha@gmail.com (Alexandra Noronha)</managingEditor>
    <webMaster>magananoronha@gmail.com (Alexandra Noronha)</webMaster>
    
-       <atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
    
    
      <item>
        <title>Test</title>
-       <link>http://example.org/posts/test/</link>
+       <link>/posts/test/</link>
        <pubDate>Fri, 28 Feb 2020 12:01:56 -0600</pubDate>
        <author>magananoronha@gmail.com (Alexandra Noronha)</author>
-       <guid>http://example.org/posts/test/</guid>
+       <guid>/posts/test/</guid>
        <description>&lt;p&gt;still a wip&lt;/p&gt;
 </description>
      </item>
